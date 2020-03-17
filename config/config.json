@@ -10,14 +10,14 @@
     "username": "itassetadmin",
     "password": "deonico",
     "database": "itasset",
-    "host": "127.0.0.1",
+    "host": "https://rocky-sea-98265.herokuapp.com",
     "dialect": "postgres"
   },
   "production": {
     "username": "itassetadmin",
     "password": "deonico",
     "database": "itasset",
-    "host": "127.0.0.1",
+    "host": "https://rocky-sea-98265.herokuapp.com",
     "dialect": "postgres"
   }
 }
