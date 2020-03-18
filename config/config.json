@@ -7,17 +7,17 @@
     "dialect": "postgres"
   },
   "test": {
-    "username": "itassetadmin",
-    "password": "deonico",
-    "database": "itasset",
-    "host": "127.0.0.1",
+    "username": "gcukvgoyrvdyvm",
+    "password": "205727700499f692472468fe9d28fda1f72ad9c2822c91ce92f0ca9d020fa91d",
+    "database": "d2aifo7ujjbl35",
+    "host": "ec2-3-91-112-166.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
-    "username": "itassetadmin",
-    "password": "deonico",
-    "database": "itasset",
-    "host": "127.0.0.1",
+    "username": "gcukvgoyrvdyvm",
+    "password": "205727700499f692472468fe9d28fda1f72ad9c2822c91ce92f0ca9d020fa91d",
+    "database": "d2aifo7ujjbl35",
+    "host": "ec2-3-91-112-166.compute-1.amazonaws.com",
     "dialect": "postgres"
   }
 }
