@@ -7,17 +7,17 @@
     "dialect": "postgres"
   },
   "test": {
-    "username": "gcukvgoyrvdyvm",
-    "password": "205727700499f692472468fe9d28fda1f72ad9c2822c91ce92f0ca9d020fa91d",
-    "database": "d2aifo7ujjbl35",
-    "host": "ec2-3-91-112-166.compute-1.amazonaws.com",
+    "username": "lbjrkheyxhftnl",
+    "password": "88edfb739d7bf14dee8c7aa4d0894652776ed64975262e9355c151ce17f3a73a",
+    "database": "d882lntlmueu22",
+    "host": "ec2-35-172-85-250.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
-    "username": "gcukvgoyrvdyvm",
-    "password": "205727700499f692472468fe9d28fda1f72ad9c2822c91ce92f0ca9d020fa91d",
-    "database": "d2aifo7ujjbl35",
-    "host": "ec2-3-91-112-166.compute-1.amazonaws.com",
+    "username": "lbjrkheyxhftnl",
+    "password": "88edfb739d7bf14dee8c7aa4d0894652776ed64975262e9355c151ce17f3a73a",
+    "database": "d882lntlmueu22",
+    "host": "ec2-35-172-85-250.compute-1.amazonaws.com",
     "dialect": "postgres"
   }
 }
