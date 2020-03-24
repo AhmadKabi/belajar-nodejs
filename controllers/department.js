@@ -17,7 +17,12 @@ module.exports = {
 
   getById(req, res) {
     return Department
-      .findByPk(req.params.id)
+      .findByPk(req.params.id, {
+        include: [{
+          model: User,
+          as: 'users'
+        }],
+      })
       .then((department) => {
         if (!department) {
           return res.status(404).send({
