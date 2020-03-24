@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "itassetadmin",
-    "password": "deonico",
-    "database": "itasset",
+    "username": "postgres",
+    "password": "welcome1",
+    "database": "departments",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
